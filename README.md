@@ -1,1 +1,6 @@
-# Inventory-management-
+Implement a centralized dashboard to monitor inventory, stock levels, drug expiry, and consumption data, along with tracking orders and shipments. The system will integrate hospital details and streamline the procurement and distribution process. By ensuring that the right quantity of the right product reaches the right place at the right time and cost, the system will maintain robust quality controls and monitor all supply chain activities to ensure drugs are always available for the right people.
+TemperatureMonitoring: Sensors continuously monitor storage conditions and send alerts if temperature limits are breached.
+RFID Tracking: RFID tags provide real-time data on product quantities and details, ensuring accurate stock management.
+Real-Time Dashboard: A live interface offering detailed insights into inventory levels, temperature conditions, and delivery progress.
+Dashboard & Real-Time Monitoring: Python will power the dashboard for live tracking of inventory, supply chain activities, and temperature conditions, ensuring seamless monitoring.
+Arduino Uno, RFID, Temperature Sensor: Arduino Uno will handle delivery tracking, utilizing RFID tags to identify products and sensors to monitor storage conditions.
